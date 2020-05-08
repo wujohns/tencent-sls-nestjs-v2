@@ -1,0 +1,8 @@
+# work log
+
+## console
+sls registry publish
+sls registry publish --dev
+
+## TODO
+ready to publish

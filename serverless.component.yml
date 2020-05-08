@@ -1,0 +1,10 @@
+name: tx-nestjs-v2
+version: 0.0.1
+author: Bubufly Inc
+org: Bubufly Inc
+description: Deploys a serverless Nestjs application onto Tencent SCF and Tencent APIGateway.
+keywords: tencent, bubufly, serverless, nestjs
+repo: https://github.com/wujohns/tencent-sls-nestjs-v2
+readme: https://github.com/wujohns/tencent-sls-nestjs-v2
+license: MIT
+main: ./src

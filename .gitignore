@@ -1,0 +1,6 @@
+.env
+src/node_modules/
+src/_shims/node_modules/
+src/package-lock.json
+src/_shims/package-lock.json
+.DS_Store
